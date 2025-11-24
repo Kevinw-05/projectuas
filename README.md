@@ -83,26 +83,6 @@ SharedPreferences	Data persistence
 Intl	Format tanggal Indonesia
 GridView & ListView	Menampilkan data dinamis
 Dialogs & Pickers	Input interaktif
-📂 Struktur Folder
-projectuas/
-│── lib/
-│   ├── main.dart
-│   ├── home_page.dart
-│   ├── account_page.dart
-│   ├── reservation_page.dart
-│   ├── cart_page.dart
-│   ├── payment_page.dart
-│   ├── beauty_products_page.dart
-│   ├── models/
-│   │    └── cart_item.dart (opsional)
-│   ├── providers/
-│   │    └── cart_provider.dart
-│   ├── services/
-│   │    └── beauty_product_service.dart
-│── assets/
-│   └── images/ (gambar layanan & profil)
-│── pubspec.yaml
-│── README.md
 
 📡 API yang Digunakan
 Makeup API
